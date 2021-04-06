@@ -9,3 +9,4 @@
 ## Local Development
 
 1. Open index.html on your browser.
+2. Run Visual Studio Code.
